@@ -1,0 +1,37 @@
+D:\Assignment\PallindromeORNot>01.py
+Enter Palindrome:356
+356
+Its not palindrome
+
+D:\Assignment\PallindromeORNot>01.py
+Enter Palindrome:MADAM
+madam
+Its palindrome
+
+D:\Assignment\PallindromeORNot>01.py
+Enter Palindrome:maDaM
+madam
+Its palindrome
+
+D:\Assignment\PallindromeORNot>madam
+'madam' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Assignment\PallindromeORNot>01.py
+Enter Palindrome:madam
+madam
+Its palindrome
+
+D:\Assignment\PallindromeORNot>01.py
+Enter Palindrome:madaM
+madam
+Its palindrome
+
+D:\Assignment\PallindromeORNot>m adam
+'m' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Assignment\PallindromeORNot>01.py
+Enter Palindrome:m adam
+m adam
+Its not palindrome
